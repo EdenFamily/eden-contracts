@@ -22,7 +22,17 @@ Chain ID `99901`. Native gas and quote asset: HYPE. Deployed from block `2277954
 
 Uniswap v4 on Elysium: PoolManager `0xE2e105d3F7209A9DA11f83cCf3E7398a753823F1`, PositionManager `0x1d1C51b9d07fD27d36412A2b66CC23D19Eb3E518`, Permit2 `0x000000000022D473030F116dDEE9F6B43aC78BA3`.
 
-The machine-readable record is in [`deployments/elysium-mainnet.json`](deployments/elysium-mainnet.json).
+The machine-readable record is in [`deployments/elysium-mainnet.json`](deployments/elysium-mainnet.json). Graduated tokens trade through the Universal Router v2.2.0 at `0x1B341FDD55d56F8E08409A2C25DDFad93Eb03C1a`.
+
+## Build on Eden
+
+| | |
+|---|---|
+| [eden-docs](https://github.com/EdenFamily/eden-docs) | How Eden works, ABIs, events, and guides to launch, trade and read launches |
+| [eden-sdk](https://github.com/EdenFamily/eden-sdk) | TypeScript SDK |
+| [eden-sdk-python](https://github.com/EdenFamily/eden-sdk-python) | Python SDK |
+| [eden-skills](https://github.com/EdenFamily/eden-skills) | Skills that let AI agents launch and trade on Eden |
+| [edenfamily.xyz](https://edenfamily.xyz) | The Eden app ([docs](https://edenfamily.xyz/docs)) |
 
 ## How a launch works
 
