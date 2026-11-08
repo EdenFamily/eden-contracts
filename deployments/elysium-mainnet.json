@@ -1,0 +1,23 @@
+{
+  "chainId": 99901,
+  "startBlock": 2277954,
+  "owner": "0x35eF6780D7f18A0853e71375aC76aA37E1866bf5",
+  "feeRecipient": "0x1eb1042b28986ecDa71299b6973878c62407C39e",
+  "factory": "0x7260894d5f782844a60ec3689c001cd8ac65f4b1",
+  "memeHook": "0x6132342bDdd14e6A0d1cbCAA3a7b6299AC2D2044",
+  "memeHookSalt": "0x712584caf37ec8792fa292995bf1b5d95ee7845b6b29477b4e3b99253065830f",
+  "feeEscrow": "0xc66b848a79676b39c0e51f3d6e43596beab868e9",
+  "locker": "0x9baa4bd69cb93f01e1b4a4632bd7a882bbab989f",
+  "buybackVault": "0x5b734cb2412e3ed5acca8869719593642c20b833",
+  "graduationExecutor": "0xfc3754655e2622a4c396c0d9868c193f4c636d3a",
+  "launchDeployer": "0xa36163be33e7795387c7e40c0a9505e27072aa1a",
+  "launchAndBuy": "0x50f7cd75af1e8f98649e5fa12ecddc3a4f240f4c",
+  "graduationGuard": "0x3d0EF994C5478B253a3BdBDD4E7a6f84bFe101E4",
+  "poolManager": "0xE2e105d3F7209A9DA11f83cCf3E7398a753823F1",
+  "positionManager": "0x1d1C51b9d07fD27d36412A2b66CC23D19Eb3E518",
+  "permit2": "0x000000000022D473030F116dDEE9F6B43aC78BA3",
+  "launchFee": "500000000000000",
+  "phantomQuote": "76048300000000000000",
+  "graduationThreshold": "190120750000000000000",
+  "curveFeeBps": 100
+}
